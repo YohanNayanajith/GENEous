@@ -43,4 +43,10 @@ This project is open source and welcomes contributions.
 ##  License
 MIT
 
-https://user-images.githubusercontent.com/62234623/97205358-64b92a80-17dd-11eb-9c61-723c2d872268.png
+##  Screenshots of prototype
+
+![Screenshot (269)](https://user-images.githubusercontent.com/62234623/97205358-64b92a80-17dd-11eb-9c61-723c2d872268.png)
+
+![Screenshot (270)](https://user-images.githubusercontent.com/62234623/97205364-67b41b00-17dd-11eb-8aba-435cb4f34266.png)
+
+![Screenshot (275)](https://user-images.githubusercontent.com/62234623/97205375-6a167500-17dd-11eb-88a4-d5989dc9bfb5.png)
